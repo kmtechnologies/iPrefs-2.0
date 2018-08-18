@@ -1,0 +1,19 @@
+{
+  "electra" : {
+    "description" : "Jailbreak iOS 11.3.1 and 11.4 b1-b3",
+    "dev" : "Coolstar",
+    "name" : "Electra",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXf2rmTmqmmZZdmY8PqnL2ghw,,%2Ftitle%2FElectra%252011.3.1%2520MultiPath%2528proper%2529"
+  },
+  "electraTest" : {
+    "dev" : "coolstar",
+    "name" : "electra",
+    "url" : "itms-services://?action=download-manifest&url=https://api.tweakboxapp.com/download/msru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXf2rmTmqmmZZdmY8PqnL2ghw,,/title/Electra%2011.3.1%20MultiPath%28proper"
+  },
+  "moviebox" : {
+    "description" : "Watch all your favorite movies free! No jailbreak!",
+    "dev" : "Unknown Developer",
+    "name" : "Moviebox",
+    "url" : "itms-services://?action=download-manifest&url=https%3A%2F%2Fapi.tweakboxapp.com%2Fdownload%2Fmsru3sdqVWaqotCiq4Tj3rWTiqV5YtaqYb_qz4OknZymn8iiqoXn3cqZi5m0rJScorc,%2Ftitle%2FMovieBox"
+  }
+}

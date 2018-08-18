@@ -1,0 +1,21 @@
+{
+
+  "name": "iPrefs Beta",
+
+  "short_name": "iPrefs Beta",
+
+  "start_url": "index.html",
+
+  "display": "standalone",
+
+  "icons": [{
+
+    "src": "ios-icon-template.png",
+
+    "sizes": "1024x1024",
+
+    "type": "image/png"
+
+  }]
+
+}
